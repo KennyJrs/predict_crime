@@ -23,6 +23,7 @@ Requirements for the technical means:
 - Python >= 3.12.1;
 - pip >= 23.3.2;
 - stable internet connection for API requests.
+
 To download packages use following code in the command line:
 ```
 pip install -r requirements.txt
