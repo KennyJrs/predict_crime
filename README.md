@@ -11,7 +11,7 @@ List of main packages used:
 
 ### Functional attributes
 Main functional attributes are:
-- data dawnloading using API;
+- data obtaining using API;
 - data preprocessing;
 - attribute selection;
 - building models;
