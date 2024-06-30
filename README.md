@@ -1,5 +1,5 @@
 # Analyze and predict crime based on machine learning methods.
-This prodect was a diploma work on theme "Analyze and predict crime based on machine learning methods". 
+This prodect was a diploma thesis on theme "Analyze and predict crime based on machine learning methods". 
 List of main packages used:
 - requests;
 - pandas;
